@@ -2,9 +2,7 @@
 
 A powerful interactive data comparison tool built with D3.js that allows users to visualize, analyze, and compare data across multiple tables.
 
-![D3 Table Comparison Tool](images/d3-table-cover.png)
-
-*Note: To add your own cover image, create an `images` folder in your project root, add your screenshot or logo image named `d3-table-cover.png`, and this README will automatically display it. Recommended size: 800x400px.*
+![D3 Table Comparison Tool](images/coverpicture.png)
 
 ## Overview
 
