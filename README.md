@@ -2,7 +2,7 @@
 
 A powerful interactive data comparison tool built with D3.js that allows users to visualize, analyze, and compare data across multiple tables.
 
-![D3 Table Comparison Tool](images/coverpicture.png)
+![D3 Table Comparison Tool](coverpicture.png)
 
 ## Overview
 
